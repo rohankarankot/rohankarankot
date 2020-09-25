@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 -->
-<p align="center">- 🔭 I’m currently working on React, ....that MERN stack... 🤔🤔😄 </p>
+<p align="center"> I’m currently working on React, ....that MERN stack... 🤔🤔😄 </p>
 
 <!--
 - 🌱 I’m currently learning ...
