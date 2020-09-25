@@ -1,4 +1,4 @@
-![Rohan Karankot](https://designproficient.com/blog/wp-content/uploads/2018/06/get-to-work.gif)
+![Rohan Karankot](Sally.gif)
 <!--
 **rohankarankot/rohankarankot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
