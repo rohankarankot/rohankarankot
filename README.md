@@ -1,4 +1,4 @@
-                                     .                             ![Rohan Karankot](Sally(1).gif)
+![Rohan Karankot](Sally(1).gif)
 <!--
 **rohankarankot/rohankarankot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
