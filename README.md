@@ -8,7 +8,7 @@
 
 
 <div >
-<h3 align="center"> 🔭 My Technology Stack</h3>
+<h3 align="center"> 🖊 My Technology Stack</h3>
 <p align="center">
 	<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
 	<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" >
