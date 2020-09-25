@@ -1,10 +1,10 @@
-   ![Rohan Karankot](Sally(1).gif)
+<p align="center"> <img src="Sally(1).gif" >  </p>
 <!--
 **rohankarankot/rohankarankot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on React, ....that MERN stack... 🤔🤔😄 
+<p align="center">- 🔭 I’m currently working on React, ....that MERN stack... 🤔🤔😄 </p>
 
 <!--
 - 🌱 I’m currently learning ...
