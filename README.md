@@ -25,5 +25,7 @@
   
   <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankarankot&show_icons=true&theme=tokyonight&layout=compact" />  </p>
 
-  
+  <p align="center">
+  <img alt="Visitos" src="https://visitor-badge.glitch.me/badge?page_id=rohankarankot" width="100px" align="middle">
+</p>
 	
