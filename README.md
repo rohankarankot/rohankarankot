@@ -1,5 +1,4 @@
 <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  Greetings...</h1>
-<br>
 <!-- <p align="center" ><img src="Sally.gif" ></p> -->
 <!-- <p align="center" style="width: 50%">Forward thinking having interpersonal skills looking to join a progressive organization to utilize my technical skills and also to engage in learning new technologies which will be beneficial for both the organization and me.</p> -->
 <br>
