@@ -10,7 +10,7 @@
 <div >
 <h3 align="center"> 🖊 Tech Stack</h3>
 <p align="center">
-	<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
+<!-- 	<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"> -->
 	<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" >
   	<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&amp;logo=javascript&amp;logoColor=000000&amp;labelColor=%23FFCE5A&amp;color=%23FFCE5A">
 	<img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" >
