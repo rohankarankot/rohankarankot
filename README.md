@@ -2,7 +2,7 @@
 <!-- <p align="center" ><img src="Sally.gif" ></p> -->
 <!-- <p align="center" style="width: 50%">Forward thinking having interpersonal skills looking to join a progressive organization to utilize my technical skills and also to engage in learning new technologies which will be beneficial for both the organization and me.</p> -->
 <br>
-<p align="center" style="font-size:40px"> 👨‍💻 Currently Working on React.... <br> MERN Stack... 🤔🤔😄 </p>
+<h3 align="center" > 👨‍💻 Currently Working on React.... <br> MERN Stack... 🤔🤔😄 </h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rohankarankot&amp;theme=tokyonight&amp;show_icons=true&amp;hide=contribs,prs"> </p>
 
 
