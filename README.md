@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  Greetings...</h1>
+<!-- <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">  Greetings...</h1> -->
 <br>
 <p align="center" ><img src="Sally.gif" ></p>
 <!-- <p align="center" style="width: 50%">Forward thinking having interpersonal skills looking to join a progressive organization to utilize my technical skills and also to engage in learning new technologies which will be beneficial for both the organization and me.</p> -->
@@ -10,7 +10,7 @@
 <div >
 <h3 align="center"> 🖊 Tech Stack</h3>
 <p align="center">
-<!-- 	<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff"> -->
+	<img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff">
 	<img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" >
   	<img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&amp;logo=javascript&amp;logoColor=000000&amp;labelColor=%23FFCE5A&amp;color=%23FFCE5A">
 	<img src="https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react" >
