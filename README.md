@@ -1,10 +1,6 @@
 <!-- <h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">  Greetings...</h1> -->
-<p align="center" >
-	
-              
-<!-- 	<img src="Sally.gif" > -->
-</p>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="rohan-karankot" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/rohan-karankot?trk=profile-badge">Rohan Karankot</a></div>
+<p align="center" ><img src="Sally.gif" ></p>
+
 <!-- <p align="center" style="width: 50%">Forward thinking having interpersonal skills looking to join a progressive organization to utilize my technical skills and also to engage in learning new technologies which will be beneficial for both the organization and me.</p> -->
 <br>
 <h3 align="center" > 👨‍💻 Currently Working on React.... <br> MERN Stack... 🤔🤔😄 </h3>
