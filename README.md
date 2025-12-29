@@ -4,7 +4,6 @@
 <!-- <p align="center" style="width: 50%">Forward thinking having interpersonal skills looking to join a progressive organization to utilize my technical skills and also to engage in learning new technologies which will be beneficial for both the organization and me.</p> -->
 <br>
 <h3 align="center" > 👨‍💻 Currently Working on React.... <br> MERN Stack... 🤔🤔😄 </h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rohankarankot&amp;theme=tokyonight&amp;show_icons=true&amp;hide=contribs,prs"> </p>
 
 
 <div >
@@ -25,9 +24,9 @@
 </div>
 
   
-  <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohankarankot&show_icons=true&theme=tokyonight&layout=compact" />  </p>
-
-  <p align="center">
-  <img alt="Visitos" src="https://visitor-badge.glitch.me/badge?page_id=rohankarankot" width="100px" align="middle">
-</p>
+  <h2 align="center">
+  Visit my latest Project : <b>Utils4You</b>
+  <br/><a href="https://www.utils4you.in/" target="_blank">www.utils4you.in</a>
+</h2>
+  
 	
